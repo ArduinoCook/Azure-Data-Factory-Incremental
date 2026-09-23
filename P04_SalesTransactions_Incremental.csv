@@ -1,0 +1,11 @@
+TransactionID,SaleDate,CustomerID,ProductName,Quantity,UnitPrice,TotalAmount,SalesPerson,Region
+TXN0101,2026-09-23,CUST011,Wireless Mouse,2,350.00,700.00,Thabo Nkosi,Gauteng
+TXN0102,2026-09-23,CUST024,USB-C Hub,1,650.00,650.00,Sarah Jacobs,Western Cape
+TXN0103,2026-09-23,CUST037,Laptop Stand,3,420.00,1260.00,Lerato Mokoena,Gauteng
+TXN0104,2026-09-23,CUST042,Mechanical Keyboard,1,1250.00,1250.00,Jason Naidoo,KwaZulu-Natal
+TXN0105,2026-09-23,CUST055,Webcam,2,890.00,1780.00,Nomsa Dlamini,KwaZulu-Natal
+TXN0106,2026-09-23,CUST063,External SSD,1,1699.00,1699.00,Pieter Botha,Free State
+TXN0107,2026-09-23,CUST071,Bluetooth Speaker,2,750.00,1500.00,Ayesha Khan,Gauteng
+TXN0108,2026-09-23,CUST084,Monitor 24 Inch,1,2899.00,2899.00,Michael Smith,Eastern Cape
+TXN0109,2026-09-23,CUST092,USB Flash Drive,4,180.00,720.00,Zanele Khumalo,Mpumalanga
+TXN0110,2026-09-23,CUST100,Laptop Backpack,1,799.00,799.00,David Williams,Western Cape
