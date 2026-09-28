@@ -34,7 +34,7 @@ Transaction ID greater than dollar watermark transaction ID.
 2. Filter applies the watermark condition to identify new transactions. 
 3. Sink loads the filtered transactions into the Azure SQL SalesTransactions table.
 
-![P04 Data Flow Source Filter Sink](02-P04-Data-Flow-Source-Filter-Sink.png)
+![P04 Data Flow Source Filter Sink](02-P04-DataFlow-Source-Filter-Sink.png)
 
 ## Pipeline Execution.
 
