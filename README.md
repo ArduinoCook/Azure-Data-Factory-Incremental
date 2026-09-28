@@ -25,7 +25,7 @@ This value is passed into the data flow and used by the filter transformation to
 The filter transformation compares each TransactionID from the source file with the watermark value returned by the lookup activity. Only records with a TransactionID greater than the watermark are allowed through to the sink.
 
 ``` Text
-Transaction ID greater than dollar watermark transaction ID.
+TransactionID > $watermarkTransactionID
 ```
 
 ## Mapping Data Flow
